@@ -1,0 +1,63 @@
+
+.font{
+  font-family: 'Lora', serif;
+}
+
+
+.bode{
+  background-image: url(./bode.PNG);
+  min-height: 70vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.map{
+  background-image: url(./map.PNG);
+  min-height: 30vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.padding{
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.button{
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  border-bottom-left-radius:5px;
+  
+}
+
+.footer{
+  padding-right: 1%;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.card {
+  background-color:  rgba(28, 28, 70, 0.288);
+  padding: 1rem;
+
+
+
+}
+
+
+.infobox{
+  background-color: rgb(28, 28, 70);
+}
+
+
+.emailfont{
+  font:  rgb(28, 28, 70);
+
+}
+
+
+.emailbox{
+  background-color: rgba(255, 247, 173, 0.993);
+  
+}
